@@ -41,3 +41,30 @@ DAX	Custom calculations (profit, return %, etc.)
 3. Return risk detection
 4. Customer growth trend
 5. Business-ready performance intelligence
+
+## What to Find?
+
+## A) Business Performance Overview (Most popular choice)
+•	Total Sales, Total Profit, Total Orders
+•	Top 5 products by profit
+•	City-wise sales performance
+•	Customer joining trends (new vs old customers)
+## B) Profit & Product Analysis
+•	Profit per product (Price – Cost × Quantity)
+•	Top profitable category
+•	Loss-making / low-margin products
+•	Best selling vs most profitable (comparison)
+## C) Customer & City Insights
+•	Who are your top customers (by money spent)?
+•	Which city buys the most?
+•	Average order value per customer
+•	Customer lifetime spending
+## D) Return & Quality Insights
+•	Return percentage
+•	Which products are getting returned more?
+•	Most common reason for return
+•	Loss due to returns
+
+
+
+
